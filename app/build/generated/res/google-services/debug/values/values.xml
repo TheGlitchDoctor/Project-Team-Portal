@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">28669961688-losier66b6bcda1gibfqguqobe2ghb2d.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://project-team-portal-3efd2.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">28669961688</string>
+    <string name="google_api_key" translatable="false">AIzaSyCBN6SwwNsgEdhh22jRvtfzW9FYYCDhS6Q</string>
+    <string name="google_app_id" translatable="false">1:28669961688:android:e9feddb6d6210990ff7ead</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCBN6SwwNsgEdhh22jRvtfzW9FYYCDhS6Q</string>
+    <string name="google_storage_bucket" translatable="false">project-team-portal-3efd2.appspot.com</string>
+    <string name="project_id" translatable="false">project-team-portal-3efd2</string>
+</resources>

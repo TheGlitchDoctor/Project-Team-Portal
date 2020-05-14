@@ -1,0 +1,4 @@
+
+Playlist for app : https://www.youtube.com/watch?v=Yx8lRrclCYo&list=PLGCjwl1RrtcSvDCxDfJb-eqwneCe934mv&index=6
+Alternative playlist: H:\madProjects\projectteamportal\app
+Firebase Recycler Adapter Problem: https://stackoverflow.com/questions/46859983/i-cant-find-populateviewholder-method-in-firebaserecycleradapter-class

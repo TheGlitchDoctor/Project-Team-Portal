@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "28669961688",
+    "firebase_url": "https://project-team-portal-3efd2.firebaseio.com",
+    "project_id": "project-team-portal-3efd2",
+    "storage_bucket": "project-team-portal-3efd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28669961688:android:e9feddb6d6210990ff7ead",
+        "android_client_info": {
+          "package_name": "com.example.projectteamportal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28669961688-losier66b6bcda1gibfqguqobe2ghb2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBN6SwwNsgEdhh22jRvtfzW9FYYCDhS6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28669961688-losier66b6bcda1gibfqguqobe2ghb2d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

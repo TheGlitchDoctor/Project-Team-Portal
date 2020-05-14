@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-database:19.3.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/firebase-database-19.3.0.aar/1fba20345ec221ead3f3a3174d42410a/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/firebase-database-19.3.0.aar/1fba20345ec221ead3f3a3174d42410a/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-database/19.3.0/c20493fbde2fd4616e0ae3631b5bf2f7f17e0308/firebase-database-19.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
